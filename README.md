@@ -42,65 +42,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
+> **Market Intelligence**: The global news aggregator market is estimated at **~$2.15 Billion** (growing at ~11.2% CAGR), exhibiting **high concentration** dominated by major tech platforms (Google News, Apple News, Microsoft MSN, Yahoo News) with winner-take-most distribution dynamics.
 
-
-- **[Microsoft MSN](https://www.msn.com/)**  
-
-  Microsoft's consumer web portal aggregating news, weather, sports, finance, and lifestyle content from thousands of publishers. Personalized via Microsoft account signals. Free, ad-supported. **No user-controlled feed sources** — content selection is editorial and algorithmic.
-
-
-
-- **[Yahoo News](https://news.yahoo.com/)**  
-
-  Long-standing news aggregator with editorial curation plus personalized "For You" feed. Aggregates from major wire services and publishers. Free, ad-supported.
-
-
-
-- **[AOL](https://www.aol.com/)**  
-
-  Yahoo-owned portal with news aggregation, email, and lifestyle content. Free, ad-supported.
-
-
-
-- **[Google News](https://news.google.com/)**  
-
-  Algorithmic news aggregator with full coverage, topic following, and local news. Uses AI to organize stories into clusters from thousands of sources. Free. **No RSS support** — publication selection is algorithm-driven.
-
-
-
-- **[Apple News](https://www.apple.com/apple-news/)**  
-
-  Curated news app with human editors and algorithmic personalization. Apple News+ subscription adds magazines and premium publications. Available on Apple devices. **Closed ecosystem** — publishers must opt in.
-
-
-
-- **[Flipboard](https://flipboard.com/)**  
-
-  Magazine-style news aggregator with topic-based "Magazines" and community curation. Users can create custom magazines from any source. Free with Flipboard+. Available on web, iOS, and Android.
-
-
-
-- **[SmartNews](https://www.smartnews.com/)**  
-
-  News aggregator focused on discovering quality journalism, with "Smart" channels and local news. Uses machine learning for personalization. Free, ad-supported.
-
-
-
-- **[Feedly](https://feedly.com/)**  
-
-  The leading commercial RSS reader with AI-powered "Leo" for prioritization, keyword filtering, and threat intelligence (Feedly for Cybersecurity). Free tier (100 sources, 3 feeds), Pro ($8/mo), Pro+ ($12/mo), Enterprise. **Best-in-class RSS infrastructure** with team sharing and boards.
-
-
-
-- **[NewsBreak](https://www.newsbreak.com/)**  
-
-  Hyperlocal news aggregator with contributor network and local news focus. Free, ad-supported. Popular in the US for local coverage.
-
-
-
-- **[Inoreader](https://www.inoreader.com/)**  
-
-  Powerful RSS reader with advanced automation rules, search, and team collaboration. Free tier (150 feeds), Plus ($7.50/mo), Professional ($12.99/mo), Enterprise. **Strongest automation and filtering capabilities** among commercial readers.
+| Platform | Description | Company Size / Valuation | Pricing (Starting Tier) | Free Tier Limit |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Apple News](https://www.apple.com/apple-news/)** | Curated news app with human editors and algorithmic personalization. | ~$3.40 Trillion Market Cap (Apple Inc.) | $12.99/mo (Apple News+) | Free access to standard aggregated news feeds; paid publication access restricted to 1-month free trial |
+| **[Microsoft MSN](https://www.msn.com/)** | Microsoft's consumer web portal aggregating news, weather, sports, finance, and lifestyle content from thousands of publishers. | ~$3.10 Trillion Market Cap (Microsoft Corp.) | Free ($0/mo) | Unlimited ad-supported news browsing (free Microsoft account required for feed personalization) |
+| **[Google News](https://news.google.com/)** | Algorithmic news aggregator with full coverage, topic following, and local news using AI. | ~$2.10 Trillion Market Cap (Alphabet Inc.) | Free ($0/mo) | Unlimited ad-supported news browsing across web and mobile apps |
+| **[Yahoo News](https://news.yahoo.com/)** | Long-standing news aggregator with editorial curation plus personalized "For You" feed. | ~$5.0 Billion Valuation (Yahoo / Apollo Global) | Free ($0/mo) | Unlimited ad-supported news browsing across categories and regional topics |
+| **[AOL](https://www.aol.com/)** | Yahoo-owned portal with news aggregation, email, and lifestyle content. | ~$5.0 Billion Valuation (Yahoo / Apollo Global) | Free ($0/mo) | Unlimited ad-supported portal and news reading |
+| **[SmartNews](https://www.smartnews.com/)** | News aggregator focused on discovering quality journalism with machine learning channels. | ~$2.0 Billion Valuation (SmartNews Inc.) | Free ($0/mo) | Unlimited news article reading and offline channel caching |
+| **[NewsBreak](https://www.newsbreak.com/)** | Hyperlocal news aggregator with contributor network and local news focus. | ~$1.0 Billion Valuation (Particle Media Inc.) | Free ($0/mo) | Unlimited local and national news stream browsing |
+| **[Flipboard](https://flipboard.com/)** | Magazine-style news aggregator with topic-based "Magazines" and community curation. | ~$800 Million Valuation (Flipboard Inc.) | Free ($0/mo) | Unlimited magazine creation, topic following, and feed reading |
+| **[Feedly](https://feedly.com/)** | Commercial RSS reader with AI-powered "Leo" for prioritization and keyword filtering. | ~$15 Million Revenue (DevHD Inc.) | $6.00/mo ($72/yr billed annually) | Up to 100 total sources across 3 folders/feeds (no AI features or rules) |
+| **[Inoreader](https://www.inoreader.com/)** | Powerful RSS reader with advanced automation rules, search, and team collaboration. | ~$4 Million Revenue (Innologica Ltd.) | $2.50/mo ($30/yr billed annually) | Up to 150 RSS feeds, 20 newsletter feeds, 20 web feeds, and 30-day search history |
 
 
 
