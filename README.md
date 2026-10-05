@@ -56,54 +56,54 @@ This repository tracks notable **SaaS platforms**, **commercial web portals**, a
 
 *Self-hosted aggregators offer full data ownership, zero algorithmic bias, no forced ads, and privacy-first reading — the ideological counterpoint to corporate news portals.*
 
-*Ordered by GitHub Star Count (Descending):*
+*Ordered by GitHub Stars_Count (Descending):*
 
-1. **[RSSHub](https://github.com/DIYgod/RSSHub)** [![GitHub stars](https://img.shields.io/github/stars/DIYgod/RSSHub?style=social&color=white)](https://github.com/DIYgod/RSSHub/stargazers)  
+1. **[RSSHub](https://github.com/DIYgod/RSSHub)** [![GitHub_Stars](https://img.shields.io/github/stars/DIYgod/RSSHub?style=social&color=white)](https://github.com/DIYgod/RSSHub/stargazers)  
    The premier open-source feed generator producing RSS/Atom feeds for websites without native RSS support (YouTube, Twitter/X, Telegram, Weibo, Bilibili, and 1,000+ sources). Self-hostable or via public instances.
 
-2. **[FreshRSS](https://github.com/FreshRSS/FreshRSS)** [![GitHub stars](https://img.shields.io/github/stars/FreshRSS/FreshRSS?style=social&color=white)](https://github.com/FreshRSS/FreshRSS/stargazers)  
+2. **[FreshRSS](https://github.com/FreshRSS/FreshRSS)** [![GitHub_Stars](https://img.shields.io/github/stars/FreshRSS/FreshRSS?style=social&color=white)](https://github.com/FreshRSS/FreshRSS/stargazers)  
    The leading self-hosted PHP RSS aggregator. Supports WebSub, XPath scraping for non-RSS sites, multi-user management, OPML import/export, Docker deployment, and extensive themes/plugins. Mature Google Reader replacement.
 
-3. **[NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)** [![GitHub stars](https://img.shields.io/github/stars/Ranchero-Software/NetNewsWire?style=social&color=white)](https://github.com/Ranchero-Software/NetNewsWire/stargazers)  
+3. **[NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)** [![GitHub_Stars](https://img.shields.io/github/stars/Ranchero-Software/NetNewsWire?style=social&color=white)](https://github.com/Ranchero-Software/NetNewsWire/stargazers)  
    Modern, open-source RSS reader for macOS and iOS. Fast, lightweight, and privacy-first with native support for Feedbin, Feedly, FreshRSS, Inoreader, and NewsBlur sync.
 
-4. **[Miniflux](https://github.com/miniflux/v2)** [![GitHub stars](https://img.shields.io/github/stars/miniflux/v2?style=social&color=white)](https://github.com/miniflux/v2/stargazers)  
+4. **[Miniflux](https://github.com/miniflux/v2)** [![GitHub_Stars](https://img.shields.io/github/stars/miniflux/v2?style=social&color=white)](https://github.com/miniflux/v2/stargazers)  
    Minimalist, opinionated Go-based RSS reader with PostgreSQL backend. Single binary deployment, lightweight resource footprint, and Fever/Google Reader API compatibility for third-party mobile readers.
 
-5. **[Winds](https://github.com/GetStream/Winds)** [![GitHub stars](https://img.shields.io/github/stars/GetStream/Winds?style=social&color=white)](https://github.com/GetStream/Winds/stargazers)  
+5. **[Winds](https://github.com/GetStream/Winds)** [![GitHub_Stars](https://img.shields.io/github/stars/GetStream/Winds?style=social&color=white)](https://github.com/GetStream/Winds/stargazers)  
    Open-source personalized news and podcast app with RSS support and machine-learning feed ranking (React/Node.js stack).
 
-6. **[NewsBlur](https://github.com/samuelclay/NewsBlur)** [![GitHub stars](https://img.shields.io/github/stars/samuelclay/NewsBlur?style=social&color=white)](https://github.com/samuelclay/NewsBlur/stargazers)  
+6. **[NewsBlur](https://github.com/samuelclay/NewsBlur)** [![GitHub_Stars](https://img.shields.io/github/stars/samuelclay/NewsBlur?style=social&color=white)](https://github.com/samuelclay/NewsBlur/stargazers)  
    Open-source RSS reader (Python/Django) featuring intelligence filtering, story training, social feed sharing, and self-hosting support.
 
-7. **[Feedbin](https://github.com/feedbin/feedbin)** [![GitHub stars](https://img.shields.io/github/stars/feedbin/feedbin?style=social&color=white)](https://github.com/feedbin/feedbin/stargazers)  
+7. **[Feedbin](https://github.com/feedbin/feedbin)** [![GitHub_Stars](https://img.shields.io/github/stars/feedbin/feedbin?style=social&color=white)](https://github.com/feedbin/feedbin/stargazers)  
    Open-source Web RSS reader (Ruby on Rails) powering the Feedbin service. Includes advanced search, newsletter receiving, and save-for-later integrations.
 
-8. **[Fluent Reader](https://github.com/yang9999/Fluent-Reader)** [![GitHub stars](https://img.shields.io/github/stars/yang9999/Fluent-Reader?style=social&color=white)](https://github.com/yang9999/Fluent-Reader/stargazers)  
+8. **[Fluent Reader](https://github.com/yang9999/Fluent-Reader)** [![GitHub_Stars](https://img.shields.io/github/stars/yang9999/Fluent-Reader?style=social&color=white)](https://github.com/yang9999/Fluent-Reader/stargazers)  
    Modern desktop RSS client built with Electron, React, and Fluent UI. Supports local reading or syncing with Fever, Feedbin, Miniflux, and Inoreader APIs.
 
-9. **[ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS)** [![GitHub stars](https://img.shields.io/github/stars/AboutRSS/ALL-about-RSS?style=social&color=white)](https://github.com/AboutRSS/ALL-about-RSS/stargazers)  
+9. **[ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS)** [![GitHub_Stars](https://img.shields.io/github/stars/AboutRSS/ALL-about-RSS?style=social&color=white)](https://github.com/AboutRSS/ALL-about-RSS/stargazers)  
    Definitive curated list of RSS tools, readers, generators, bridges, and protocol implementations.
 
-10. **[CommaFeed](https://github.com/Athou/commafeed)** [![GitHub stars](https://img.shields.io/github/stars/Athou/commafeed?style=social&color=white)](https://github.com/Athou/commafeed/stargazers)  
+10. **[CommaFeed](https://github.com/Athou/commafeed)** [![GitHub_Stars](https://img.shields.io/github/stars/Athou/commafeed?style=social&color=white)](https://github.com/Athou/commafeed/stargazers)  
     Self-hosted Google Reader-inspired RSS reader built with Java backend and Angular/React frontend. Lightweight and Docker-ready.
 
-11. **[RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge)** [![GitHub stars](https://img.shields.io/github/stars/RSS-Bridge/rss-bridge?style=social&color=white)](https://github.com/RSS-Bridge/rss-bridge/stargazers)  
+11. **[RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge)** [![GitHub_Stars](https://img.shields.io/github/stars/RSS-Bridge/rss-bridge?style=social&color=white)](https://github.com/RSS-Bridge/rss-bridge/stargazers)  
     Companion feed generator with 200+ PHP bridges generating RSS feeds for social networks, forums, and sites lacking native RSS feeds.
 
-12. **[Stringer](https://github.com/mdswanson/stringer)** [![GitHub stars](https://img.shields.io/github/stars/mdswanson/stringer?style=social&color=white)](https://github.com/mdswanson/stringer/stargazers)  
+12. **[Stringer](https://github.com/mdswanson/stringer)** [![GitHub_Stars](https://img.shields.io/github/stars/mdswanson/stringer?style=social&color=white)](https://github.com/mdswanson/stringer/stargazers)  
     Self-hosted, anti-social RSS reader built with Ruby and Sinatra, designed for fast keyboard-driven reading without algorithmic noise.
 
-13. **[Yarr](https://github.com/nkanaev/yarr)** [![GitHub stars](https://img.shields.io/github/stars/nkanaev/yarr?style=social&color=white)](https://github.com/nkanaev/yarr/stargazers)  
+13. **[Yarr](https://github.com/nkanaev/yarr)** [![GitHub_Stars](https://img.shields.io/github/stars/nkanaev/yarr?style=social&color=white)](https://github.com/nkanaev/yarr/stargazers)  
     Minimalist Go single-binary RSS reader with embedded SQLite backend. Starts instantly with tiny memory usage (ideal for Raspberry Pi).
 
-14. **[Selfoss](https://github.com/fossar/selfoss)** [![GitHub stars](https://img.shields.io/github/stars/fossar/selfoss?style=social&color=white)](https://github.com/fossar/selfoss/stargazers)  
+14. **[Selfoss](https://github.com/fossar/selfoss)** [![GitHub_Stars](https://img.shields.io/github/stars/fossar/selfoss?style=social&color=white)](https://github.com/fossar/selfoss/stargazers)  
     Multi-purpose RSS reader, live stream, and mashup content aggregator written in PHP. Supports RSS, Atom, JSON, and HTML scraping.
 
-15. **[Leed](https://github.com/ldleman/Leed)** [![GitHub stars](https://img.shields.io/github/stars/ldleman/Leed?style=social&color=white)](https://github.com/ldleman/Leed/stargazers)  
+15. **[Leed](https://github.com/ldleman/Leed)** [![GitHub_Stars](https://img.shields.io/github/stars/ldleman/Leed?style=social&color=white)](https://github.com/ldleman/Leed/stargazers)  
     Lightweight PHP/MySQL self-hosted RSS reader with plugin architecture and mobile notification support.
 
-16. **[Kriss Feed](https://github.com/tontof/kriss_feed)** [![GitHub stars](https://img.shields.io/github/stars/tontof/kriss_feed?style=social&color=white)](https://github.com/tontof/kriss_feed/stargazers)  
+16. **[Kriss Feed](https://github.com/tontof/kriss_feed)** [![GitHub_Stars](https://img.shields.io/github/stars/tontof/kriss_feed?style=social&color=white)](https://github.com/tontof/kriss_feed/stargazers)  
     Simple, single-file PHP RSS reader with SQLite/MySQL for low-resource servers.
 
 ---
@@ -121,7 +121,7 @@ For building custom news aggregation solutions:
 
 1. Fork this repository.
 2. Add/edit entries in `README.md` (following the established table or star-ranked list format).
-3. Include: name, website/GitHub link, factual description, and star badge (for open-source tools).
+3. Include: name, website/GitHub link, factual description, and Stars_Badge (for open-source tools).
 4. Submit a Pull Request with a brief explanation.
 
 *Check out our master list of awesome repos at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awosome-Awesome)!*
