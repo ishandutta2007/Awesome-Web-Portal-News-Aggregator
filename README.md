@@ -1,48 +1,41 @@
-# Awesome-Web-Portal-News-Aggregator
+# 📰 Awesome Web Portal &amp; News Aggregator Ecosystem
 
-## Top Web Portal & News Aggregator Ecosystem
+<p align="left">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Web-Portal-News-Aggregator/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Web-Portal-News-Aggregator?style=flat-square&logo=github&color=gold" alt="Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Web-Portal-News-Aggregator/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Web-Portal-News-Aggregator?style=flat-square&logo=github" alt="Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Web-Portal-News-Aggregator/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+![Awesome Web Portal &amp; News Aggregator Banner](assets/banner.svg)
 
+## 🌐 Curated List of SaaS Products, News Aggregators &amp; Open-Source Feed Readers
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-
-*Focused on Feed Aggregation, Personalized News & Self-Hosted Reading*  
+> **SEO Keywords**: *News Aggregator, Web Portal, RSS Reader, Self-Hosted Feed Aggregator, RSS Generator, Content Curation, Feedbin, FreshRSS, Miniflux, RSSHub, Privacy News*
 
 **Last updated: October 2026**
 
+This repository tracks notable **SaaS platforms**, **commercial web portals**, and **open-source GitHub projects** for **Web Portals and News Aggregation**. These tools collect, organize, and personalize news and RSS feeds — from algorithmically curated mainstream portals to privacy-first, self-hosted feed readers with full data ownership.
 
+---
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Web Portals and News Aggregation**. These tools collect, organize, and personalize news and RSS feeds — from algorithmically curated mainstream portals to self-hosted feed readers with full data ownership.
+## 📑 Table of Contents
 
+- [☁️ SaaS &amp; Hosted News Portals](#%EF%B8%8F-saas--hosted-news-portals)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Architecture &amp; Integration Blueprint](#%EF%B8%8F-architecture--integration-blueprint)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [☕ Support &amp; Community](#-support--community)
+- [📈 Star History](#-star-history)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
 
+---
 
-**Examples** include Microsoft MSN, Yahoo News, AOL, Google News, Apple News, Flipboard, SmartNews, Feedly, NewsBreak, and Inoreader (the category leaders).
+## ☁️ SaaS &amp; Hosted News Portals
 
-
-
-**Open-source emphasis**: Feed reading is one of the strongest open-source domains, with a 25-year lineage from Google Reader through **FreshRSS**, **Miniflux**, **CommaFeed**, and **Tiny Tiny RSS**. Self-hosted aggregators offer full data ownership, no algorithmic filtering, and privacy-first reading — the ideological counterpoint to ad-driven portals.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-> **Market Intelligence**: The global news aggregator market is estimated at **~$2.15 Billion** (growing at ~11.2% CAGR), exhibiting **high concentration** dominated by major tech platforms (Google News, Apple News, Microsoft MSN, Yahoo News) with winner-take-most distribution dynamics.
+> 📊 **Market Intelligence**: The global news aggregator market is estimated at **~$2.15 Billion** (growing at ~11.2% CAGR), exhibiting **high concentration** dominated by major tech platforms (Google News, Apple News, Microsoft MSN, Yahoo News) with winner-take-most distribution dynamics.
 
 | Platform | Description | Company Size / Valuation | Pricing (Starting Tier) | Free Tier Limit |
 | :--- | :--- | :--- | :--- | :--- |
@@ -57,132 +50,111 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Feedly](https://feedly.com/)** | Commercial RSS reader with AI-powered "Leo" for prioritization and keyword filtering. | ~$15 Million Revenue (DevHD Inc.) | $6.00/mo ($72/yr billed annually) | Up to 100 total sources across 3 folders/feeds (no AI features or rules) |
 | **[Inoreader](https://www.inoreader.com/)** | Powerful RSS reader with advanced automation rules, search, and team collaboration. | ~$4 Million Revenue (Innologica Ltd.) | $2.50/mo ($30/yr billed annually) | Up to 150 RSS feeds, 20 newsletter feeds, 20 web feeds, and 30-day search history |
 
+---
 
+## 🔓 Open-Source GitHub Projects
 
-## Open-Source GitHub Projects
+*Self-hosted aggregators offer full data ownership, zero algorithmic bias, no forced ads, and privacy-first reading — the ideological counterpoint to corporate news portals.*
 
+*Ordered by GitHub Star Count (Descending):*
 
+1. **[RSSHub](https://github.com/DIYgod/RSSHub)** [![GitHub stars](https://img.shields.io/github/stars/DIYgod/RSSHub?style=social&color=white)](https://github.com/DIYgod/RSSHub/stargazers)  
+   The premier open-source feed generator producing RSS/Atom feeds for websites without native RSS support (YouTube, Twitter/X, Telegram, Weibo, Bilibili, and 1,000+ sources). Self-hostable or via public instances.
 
-- **[FreshRSS](https://github.com/FreshRSS/FreshRSS)**  
+2. **[FreshRSS](https://github.com/FreshRSS/FreshRSS)** [![GitHub stars](https://img.shields.io/github/stars/FreshRSS/FreshRSS?style=social&color=white)](https://github.com/FreshRSS/FreshRSS/stargazers)  
+   The leading self-hosted PHP RSS aggregator. Supports WebSub, XPath scraping for non-RSS sites, multi-user management, OPML import/export, Docker deployment, and extensive themes/plugins. Mature Google Reader replacement.
 
-  The leading self-hosted RSS aggregator with 8,000+ GitHub stars and AGPL-3.0 license. PHP-based, supports WebSub, XPath scraping for sites without feeds, OPML import/export, and multi-user with per-user feed management. **Docker deployment** and extensive themes/plugins. **The most widely adopted open-source Google Reader replacement** — mature, actively maintained, and feature-complete.
+3. **[NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)** [![GitHub stars](https://img.shields.io/github/stars/Ranchero-Software/NetNewsWire?style=social&color=white)](https://github.com/Ranchero-Software/NetNewsWire/stargazers)  
+   Modern, open-source RSS reader for macOS and iOS. Fast, lightweight, and privacy-first with native support for Feedbin, Feedly, FreshRSS, Inoreader, and NewsBlur sync.
 
+4. **[Miniflux](https://github.com/miniflux/v2)** [![GitHub stars](https://img.shields.io/github/stars/miniflux/v2?style=social&color=white)](https://github.com/miniflux/v2/stargazers)  
+   Minimalist, opinionated Go-based RSS reader with PostgreSQL backend. Single binary deployment, lightweight resource footprint, and Fever/Google Reader API compatibility for third-party mobile readers.
 
+5. **[Winds](https://github.com/GetStream/Winds)** [![GitHub stars](https://img.shields.io/github/stars/GetStream/Winds?style=social&color=white)](https://github.com/GetStream/Winds/stargazers)  
+   Open-source personalized news and podcast app with RSS support and machine-learning feed ranking (React/Node.js stack).
 
-- **[Miniflux](https://github.com/miniflux/v2)**  
+6. **[NewsBlur](https://github.com/samuelclay/NewsBlur)** [![GitHub stars](https://img.shields.io/github/stars/samuelclay/NewsBlur?style=social&color=white)](https://github.com/samuelclay/NewsBlur/stargazers)  
+   Open-source RSS reader (Python/Django) featuring intelligence filtering, story training, social feed sharing, and self-hosting support.
 
-  Minimalist, opinionated RSS reader with 7,000+ GitHub stars and Apache-2.0 license. Go-based single binary with PostgreSQL backend. **Lightweight and fast** — deliberately minimal feature set focused on reading. Supports Fever and Google Reader APIs for mobile app compatibility (Reeder, Unread, etc.). Excellent for users who want speed over feature breadth.
+7. **[Feedbin](https://github.com/feedbin/feedbin)** [![GitHub stars](https://img.shields.io/github/stars/feedbin/feedbin?style=social&color=white)](https://github.com/feedbin/feedbin/stargazers)  
+   Open-source Web RSS reader (Ruby on Rails) powering the Feedbin service. Includes advanced search, newsletter receiving, and save-for-later integrations.
 
+8. **[Fluent Reader](https://github.com/yang9999/Fluent-Reader)** [![GitHub stars](https://img.shields.io/github/stars/yang9999/Fluent-Reader?style=social&color=white)](https://github.com/yang9999/Fluent-Reader/stargazers)  
+   Modern desktop RSS client built with Electron, React, and Fluent UI. Supports local reading or syncing with Fever, Feedbin, Miniflux, and Inoreader APIs.
 
+9. **[ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS)** [![GitHub stars](https://img.shields.io/github/stars/AboutRSS/ALL-about-RSS?style=social&color=white)](https://github.com/AboutRSS/ALL-about-RSS/stargazers)  
+   Definitive curated list of RSS tools, readers, generators, bridges, and protocol implementations.
 
-- **[CommaFeed](https://github.com/Athou/commafeed)**  
+10. **[CommaFeed](https://github.com/Athou/commafeed)** [![GitHub stars](https://img.shields.io/github/stars/Athou/commafeed?style=social&color=white)](https://github.com/Athou/commafeed/stargazers)  
+    Self-hosted Google Reader-inspired RSS reader built with Java backend and Angular/React frontend. Lightweight and Docker-ready.
 
-  Self-hosted Google Reader-inspired RSS reader with Java backend and Angular frontend. **Lightweight and simple** — closer to the original Google Reader experience than FreshRSS. Supports OPML, category organization, and mobile-friendly UI. Docker deployment.
+11. **[RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge)** [![GitHub stars](https://img.shields.io/github/stars/RSS-Bridge/rss-bridge?style=social&color=white)](https://github.com/RSS-Bridge/rss-bridge/stargazers)  
+    Companion feed generator with 200+ PHP bridges generating RSS feeds for social networks, forums, and sites lacking native RSS feeds.
 
+12. **[Stringer](https://github.com/mdswanson/stringer)** [![GitHub stars](https://img.shields.io/github/stars/mdswanson/stringer?style=social&color=white)](https://github.com/mdswanson/stringer/stargazers)  
+    Self-hosted, anti-social RSS reader built with Ruby and Sinatra, designed for fast keyboard-driven reading without algorithmic noise.
 
+13. **[Yarr](https://github.com/nkanaev/yarr)** [![GitHub stars](https://img.shields.io/github/stars/nkanaev/yarr?style=social&color=white)](https://github.com/nkanaev/yarr/stargazers)  
+    Minimalist Go single-binary RSS reader with embedded SQLite backend. Starts instantly with tiny memory usage (ideal for Raspberry Pi).
 
-- **[Tiny Tiny RSS](https://git.tt-rss.org/fox/tt-rss)**  
+14. **[Selfoss](https://github.com/fossar/selfoss)** [![GitHub stars](https://img.shields.io/github/stars/fossar/selfoss?style=social&color=white)](https://github.com/fossar/selfoss/stargazers)  
+    Multi-purpose RSS reader, live stream, and mashup content aggregator written in PHP. Supports RSS, Atom, JSON, and HTML scraping.
 
-  Veteran self-hosted RSS reader (since 2005) with plugin architecture, filters, and mobile apps. PHP/PostgreSQL or MySQL. **Highly extensible** — plugin ecosystem supports custom scoring, filters, and integrations. Development shifted to a self-hosted Git repository.
+15. **[Leed](https://github.com/ldleman/Leed)** [![GitHub stars](https://img.shields.io/github/stars/ldleman/Leed?style=social&color=white)](https://github.com/ldleman/Leed/stargazers)  
+    Lightweight PHP/MySQL self-hosted RSS reader with plugin architecture and mobile notification support.
 
-
-
-- **[RSSHub](https://github.com/DIYgod/RSSHub)**  
-
-  The most important open-source project for feed generation, with 39,000+ GitHub stars. **Generates RSS feeds for websites that don't offer them** — including Weibo, Bilibili, YouTube, Twitter/X, Telegram, and 1,000+ sources. Self-hostable or use public instances. **Essential companion to any self-hosted reader** — without RSSHub, many modern sites would be unfollowable.
-
-
-
-- **[Feedly (open-source alternatives collection)](https://github.com/AboutRSS/ALL-about-RSS)**  
-
-  Comprehensive curated list of RSS tools, readers, and services with 5,000+ stars. **The definitive resource for discovering RSS software** — includes readers, generators, filters, and protocol implementations.
-
-
-
-- **[Winds](https://github.com/GetStream/Winds)**  
-
-  Open-source personalized news and podcast app with RSS support and algorithmic ranking. React/Node.js stack. **Note**: development has slowed significantly; primarily a reference architecture for feed ranking and recommendation systems.
-
-
-
-- **[Kriss Feed](https://github.com/tontof/kriss_feed)**  
-
-  Simple, lightweight PHP RSS reader with MySQL/SQLite. **Minimalist and fast** — good for low-resource servers or users wanting the simplest possible self-hosted reader.
-
-
-
-- **[Leed](https://github.com/ldleman/Leed)**  
-
-  Self-hosted RSS aggregator with mobile-friendly interface and plugin architecture. PHP/MySQL. **French-origin project** with a clean, modern UI and notification support.
-
-
-
-- **[Selfoss](https://github.com/fossar/selfoss)**  
-
-  Open-source multi-purpose RSS reader, live stream, and mashup content aggregator with PHP backend. **Supports multiple feed types** — RSS, Atom, JSON, and HTML scraping. Docker deployment.
-
-
-
-- **[Yarr](https://github.com/nkanaev/yarr)**  
-
-  Simple, minimal RSS reader written in Go — single binary with embedded SQLite. **Extremely lightweight** — starts instantly and runs on minimal hardware. Good for Raspberry Pi and low-resource environments.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **RSS-Bridge** — Companion to RSSHub, generating feeds for sites without RSS using PHP bridges. Community-maintained with 200+ bridges.
-
-- **Feedbin** — Open-source RSS reader (Ruby) powering the commercial Feedbin service. Self-hostable with advanced filtering and save-for-later.
-
-- **NewsBlur** — Open-source RSS reader (Python/Django) with commercial hosting. Supports intelligence filtering, story training, and social sharing.
-
-- **Fever** — Paid PHP RSS reader with self-hosted license; popular API-compatible target for mobile apps.
-
-
-
-**Frameworks for building custom news aggregation solutions**: Combine **FreshRSS** for a full-featured, multi-user self-hosted reader with plugin ecosystem, **Miniflux** for minimal, fast reading with API compatibility, **RSSHub** for generating feeds from sites without RSS, and **RSS-Bridge** as a secondary feed generator. For mobile integration, Miniflux and FreshRSS support Fever/Google Reader APIs compatible with Reeder, Unread, and NetNewsWire. For personalization, **Winds** provides a reference architecture for ranking and recommendation, though active development has slowed.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- News aggregators and portals may filter, rank, or editorialize content. Self-hosted readers provide **full user control** over sources and reading order — the primary reason to choose them over algorithmic portals.
-
-- Self-hosted solutions require proper infrastructure, regular feed updates, and ongoing maintenance. **RSSHub public instances may rate-limit or restrict access** — self-host for reliability.
-
-- **Google Reader's shutdown in 2013** remains the canonical cautionary tale for relying on proprietary feed readers. Open-source self-hosted readers are immune to this risk.
-
-
+16. **[Kriss Feed](https://github.com/tontof/kriss_feed)** [![GitHub stars](https://img.shields.io/github/stars/tontof/kriss_feed?style=social&color=white)](https://github.com/tontof/kriss_feed/stargazers)  
+    Simple, single-file PHP RSS reader with SQLite/MySQL for low-resource servers.
 
 ---
 
+## 🛠️ Architecture &amp; Integration Blueprint
 
+For building custom news aggregation solutions:
+- **Feed Generation**: Combine **[RSSHub](https://github.com/DIYgod/RSSHub)** and **[RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge)** to generate feeds for social channels and paywalled sites without native RSS.
+- **Reading Engine**: Use **[FreshRSS](https://github.com/FreshRSS/FreshRSS)** for multi-user plugin capabilities or **[Miniflux](https://github.com/miniflux/v2)** for ultra-fast single binary reading.
+- **Mobile Client**: Connect **[NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)** or **[Fluent Reader](https://github.com/yang9999/Fluent-Reader)** via Fever or Google Reader APIs.
 
-**Made for RSS enthusiasts, privacy-conscious readers, researchers, and self-hosting advocates.**  
+---
 
-Let's make news aggregation more open, transparent, and user-controlled.
+## 🤝 How to Contribute
+
+1. Fork this repository.
+2. Add/edit entries in `README.md` (following the established table or star-ranked list format).
+3. Include: name, website/GitHub link, factual description, and star badge (for open-source tools).
+4. Submit a Pull Request with a brief explanation.
+
+*Check out our master list of awesome repos at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awosome-Awesome)!*
+
+---
+
+## ☕ Support &amp; Community
+
+Thank you for visiting and using this curated directory! If you find this list helpful, please consider supporting the project:
+
+- 🌟 **Star this repository** to help others discover it.
+- 🔀 **Fork and contribute** new news aggregators or RSS tools.
+- 📢 **Share** with RSS enthusiasts, privacy advocates, and self-hosting communities.
+- 💖 **Sponsor / Buy me a coffee**: Support ongoing maintenance via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Web-Portal-News-Aggregator&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Web-Portal-News-Aggregator&yype=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This is a **community-curated list** — not exhaustive and not an endorsement.
+- News portals and commercial aggregators may filter, rank, or editorialize content. Self-hosted readers provide **full user control** over feed sources and reading order.
+- Self-hosted solutions require proper infrastructure, regular feed polling management, and ongoing maintenance.
+- **Google Reader's shutdown in 2013** remains the canonical cautionary tale for relying on proprietary feed readers. Open-source self-hosted readers protect your digital reading independence.
+
+---
+
+<p align="center">
+  <b>Made for RSS enthusiasts, privacy-conscious readers, researchers, and self-hosting advocates.</b><br/>
+  <i>Let's make news aggregation more open, transparent, and user-controlled.</i>
+</p>
